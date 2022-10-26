@@ -6,7 +6,7 @@ Luego hacer una aplicación que muestre los datos almacenados, pero que también
 Por último, con dicha información, realizar un informe. Este informe puede ser simple a través de la comparación entre elementos recolectados de las diferentes fuentes, estadísticos sobre las series de los datos o cualquier tipo de análisis del tipo Big Data o
 Machine Learning, como regresiones, proyecciones, etc.
 
-EJEMPLO
+EJEMPLO: 
 Solo a los fines de proponer un ejemplo que amplíe la consigna, imaginemos que tomamos páginas como https://pypi.org/project/investpy/ ó https://es.finance.yahoo.com/quote/TEF?p=TEF&.tsrc=fin-srch ó https://www.bolsamadrid.es/esp/aspx/Mercados/Precios.aspx?indice=ESI100000000 ó de Gobiernos Abiertos.
 Como bien sabemos las páginas web son documentos estructurados  formados por una jerarquía de elementos. Así que luego de elegir la página, el siguiente paso consiste en identificar correctamente el elemento o elementos que contienen la información deseada.
 Luego hay que descargar el contenido de la página utilizando la librería requests.
